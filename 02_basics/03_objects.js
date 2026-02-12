@@ -10,7 +10,7 @@ const mySym = Symbol("key1")
 const JsUser = {
     name: "Hitesh",
     "full name" : "Hitesh Choudhary",
-    [mySym] : "mykey1",
+    [mySym] : "mykey1",   // symbol ki trh use krna hai toh sqaure bracket lagana pdega
     age: 18,
     location: "jaipur",
     email: "hitesh@gmail.com",
